@@ -8,6 +8,9 @@ public class BasicApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Basic Start Method");
+		System.out.println("Basic Start Method in Yugal Branch");
+
+
 		SpringApplication.run(BasicApplication.class, args);
 	}
 
